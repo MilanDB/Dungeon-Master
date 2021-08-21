@@ -1,0 +1,535 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1165; Version 2009; 64bit' Language: 'nl' Physical Memory: 8105 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/projecten/Dungeon-Master/Dungeon Master
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59044
+Successfully changed project path to: E:/projecten/Dungeon-Master/Dungeon Master
+E:/projecten/Dungeon-Master/Dungeon Master
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 39.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/projecten/Dungeon-Master/Dungeon Master/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f82)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.6230
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56608
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.002265 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 48.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.931 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001113 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.838 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.2 MB.
+System memory in use after: 61.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 1.974800 ms (FindLiveObjects: 0.178000 ms CreateObjectMapping: 0.032500 ms MarkObjects: 1.674900 ms  DeleteObjects: 0.087500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Art/Models
+  artifactKey: Guid(a0c79ee2958b9084fbf7ba82e174785c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models using Guid(a0c79ee2958b9084fbf7ba82e174785c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb387062d8ea6aaaed0ff3b10d779c41') in 0.008828 seconds
+  Import took 0.012043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.742253 seconds.
+  path: Assets/Art/Models/CastleModels
+  artifactKey: Guid(044828b1722c74c4babdca6dc87776f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels using Guid(044828b1722c74c4babdca6dc87776f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ae7a25de71fe629e870770eba49845d') in 0.007455 seconds
+  Import took 0.010037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.972149 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format
+  artifactKey: Guid(fcc601a49c1267a429120452e7be6a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format using Guid(fcc601a49c1267a429120452e7be6a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f6a7db867ece62e8d684ea438a7fda5') in 0.114486 seconds
+  Import took 0.116651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/wall_low.fbx
+  artifactKey: Guid(7ba88fa1d9971b74dbabe0d90ee30145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/wall_low.fbx using Guid(7ba88fa1d9971b74dbabe0d90ee30145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cfebe7ae2fbf15ee10ca267d006697f') in 0.629947 seconds
+  Import took 0.631919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/floor_stairsCornerInner.fbx
+  artifactKey: Guid(bb196b54ca5c02d4eb5644b41a08662f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/floor_stairsCornerInner.fbx using Guid(bb196b54ca5c02d4eb5644b41a08662f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '842c1f89cb0e6ec3d0bde7b1e92f01a5') in 0.216993 seconds
+  Import took 0.219049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/structure.fbx
+  artifactKey: Guid(b838e298e3ae4304a94a242dc9f8e76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/structure.fbx using Guid(b838e298e3ae4304a94a242dc9f8e76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6b55e712de47877154fcc76b822c3c6') in 0.351130 seconds
+  Import took 0.353301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/column_damaged.fbx
+  artifactKey: Guid(34fec4a76d487c449b707adc7bae2043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/column_damaged.fbx using Guid(34fec4a76d487c449b707adc7bae2043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84c3b918d4d3ad402e215ee14435b542') in 0.142636 seconds
+  Import took 0.144930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/wallPaint.fbx
+  artifactKey: Guid(12a72c1c2d7df4341bb20d550655717d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/wallPaint.fbx using Guid(12a72c1c2d7df4341bb20d550655717d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3698209d166b3c7e855efb004b108506') in 0.168895 seconds
+  Import took 0.171165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/column.fbx
+  artifactKey: Guid(e23c4888205455344a527792de77f67e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/column.fbx using Guid(e23c4888205455344a527792de77f67e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dc4f5bf190f01a5f0821c96e9deaed8') in 0.112259 seconds
+  Import took 0.114509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/floor_stairsCornerOuter.fbx
+  artifactKey: Guid(d868faba89293e14ebe80af38fd19f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/floor_stairsCornerOuter.fbx using Guid(d868faba89293e14ebe80af38fd19f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b26863523bb6b4fd096b84d4eb032e5d') in 0.194202 seconds
+  Import took 0.196137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/wall_gate.fbx
+  artifactKey: Guid(4a25cf1b99d5c5a4eb93ac3ead0630b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/wall_gate.fbx using Guid(4a25cf1b99d5c5a4eb93ac3ead0630b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85b450456ca3cab79419ae6a6d99b247') in 0.159106 seconds
+  Import took 0.161048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/floor_steps.fbx
+  artifactKey: Guid(50eea6526f31ede46a71fe9b5dbae443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/floor_steps.fbx using Guid(50eea6526f31ede46a71fe9b5dbae443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aba79b72dea16c3f39ab9eb797018e9c') in 0.045850 seconds
+  Import took 0.048149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/detail_barrel.fbx
+  artifactKey: Guid(abba170e968afa44196b5b99d3a5cf1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/detail_barrel.fbx using Guid(abba170e968afa44196b5b99d3a5cf1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2a60330119b589b4262cf4a39c993cf') in 0.069335 seconds
+  Import took 0.071581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/battlement_half.fbx
+  artifactKey: Guid(7bde8c6a1002bf14e995c3e8a66c42a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/battlement_half.fbx using Guid(7bde8c6a1002bf14e995c3e8a66c42a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9dbd0d5ba636ad07c8bec8e5e6b2fb6') in 0.154168 seconds
+  Import took 0.156333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/wall_gateHalf.fbx
+  artifactKey: Guid(b62e4f0f18980b54d91b70ee27dd3e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/wall_gateHalf.fbx using Guid(b62e4f0f18980b54d91b70ee27dd3e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e5c89bb479c677c27524ed7501c8aff') in 0.043586 seconds
+  Import took 0.045514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/wallFortified.fbx
+  artifactKey: Guid(c5e9d6e34e5916d44a3fcce33cdd56af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/wallFortified.fbx using Guid(c5e9d6e34e5916d44a3fcce33cdd56af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36a111a1ac4504305236e62a43369ecf') in 0.287440 seconds
+  Import took 0.289642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/floor_flat.fbx
+  artifactKey: Guid(3c48869c3026d7b4b8944801447d2b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/floor_flat.fbx using Guid(3c48869c3026d7b4b8944801447d2b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efd1aa88827dff4e67d57323ea1b1426') in 0.106248 seconds
+  Import took 0.108715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/battlement_cornerOuter.fbx
+  artifactKey: Guid(732801527302e18498cefe121cd4fcfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/battlement_cornerOuter.fbx using Guid(732801527302e18498cefe121cd4fcfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd547347206be17208a8ba4acf6fc791') in 0.095176 seconds
+  Import took 0.097604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/wallPaint_detail.fbx
+  artifactKey: Guid(60b369a088430304dba335751245eb2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/wallPaint_detail.fbx using Guid(60b369a088430304dba335751245eb2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8886dea81d839770da636020d82c2d3b') in 0.149308 seconds
+  Import took 0.151417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/wall_flat.fbx
+  artifactKey: Guid(80cad6676b82d00428ae9d92d885d6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/wall_flat.fbx using Guid(80cad6676b82d00428ae9d92d885d6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a515ad56cb3c14811a12d8cbfca9e7a9') in 0.177547 seconds
+  Import took 0.179543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/wallPaint_half.fbx
+  artifactKey: Guid(f944c419b5c94cb418adc1d1fd0ce795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/wallPaint_half.fbx using Guid(f944c419b5c94cb418adc1d1fd0ce795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6db4d0c3bcc1a11586b8e1fd1418ced4') in 0.069397 seconds
+  Import took 0.072072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/wallFortifiedPaint_half.fbx
+  artifactKey: Guid(34e68ad928b194d45aac29aef0b2c9a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/wallFortifiedPaint_half.fbx using Guid(34e68ad928b194d45aac29aef0b2c9a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50a5d6153ea7808e57f74c041ee03c1d') in 0.516463 seconds
+  Import took 0.518598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/tower_base.fbx
+  artifactKey: Guid(087c4e1c776f0c9458be557305ae57de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/tower_base.fbx using Guid(087c4e1c776f0c9458be557305ae57de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06c7e84e3f61afcf38a09b5158b200c2') in 0.162884 seconds
+  Import took 0.164806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/columnPaint_damaged.fbx
+  artifactKey: Guid(5dfd25e79a402b54c9c480175f14ee26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/columnPaint_damaged.fbx using Guid(5dfd25e79a402b54c9c480175f14ee26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a217d0da1e6fb27605f28c9c56f76d10') in 0.083941 seconds
+  Import took 0.086239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/tower.fbx
+  artifactKey: Guid(e6f466788db44b64f9f4831ba85a2d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/tower.fbx using Guid(e6f466788db44b64f9f4831ba85a2d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bc92b808201082434b2fb9365cf4d6c') in 0.100904 seconds
+  Import took 0.106596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/wallFortified_gate.fbx
+  artifactKey: Guid(4abb9ec73ff7515449b67bc55dffe7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/wallFortified_gate.fbx using Guid(4abb9ec73ff7515449b67bc55dffe7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fb5b29e1abcde84e4b4182929b833c2') in 0.174948 seconds
+  Import took 0.178689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/floor.fbx
+  artifactKey: Guid(be71e97309d8f8a469cb0f152683bf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/floor.fbx using Guid(be71e97309d8f8a469cb0f152683bf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f46a26aea652415b1fa9ce9b65018608') in 0.049369 seconds
+  Import took 0.052805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/tower_top.fbx
+  artifactKey: Guid(4d26727bfd610934eb5f97c7cffa4a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/tower_top.fbx using Guid(4d26727bfd610934eb5f97c7cffa4a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd070828250060633827a643a3027cda8') in 0.071798 seconds
+  Import took 0.074248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/towerPaint.fbx
+  artifactKey: Guid(ab426f715940c114d831d375378bc1a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/towerPaint.fbx using Guid(ab426f715940c114d831d375378bc1a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c97444b5a76c2cdebdf65d24efacb8a6') in 0.107376 seconds
+  Import took 0.110115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/roof_corner.fbx
+  artifactKey: Guid(fbb866e7d95a50546b1de60943f0a1f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/roof_corner.fbx using Guid(fbb866e7d95a50546b1de60943f0a1f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc510ea4e3ebed0f8a765ef8589c02fb') in 0.107712 seconds
+  Import took 0.109872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/wall_flatGate.fbx
+  artifactKey: Guid(02d79a5654323ae429bfe4e38cd0d96c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/wall_flatGate.fbx using Guid(02d79a5654323ae429bfe4e38cd0d96c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1679de87789a4d9f6c42fc029b09e5b1') in 0.077630 seconds
+  Import took 0.079892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/detail_crate.fbx
+  artifactKey: Guid(a7f49f60ea4120a4eaabf495c51e8f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/detail_crate.fbx using Guid(a7f49f60ea4120a4eaabf495c51e8f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abe6d85f0f83522fce00b2562fff6dd9') in 0.110941 seconds
+  Import took 0.113197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/wall_half.fbx
+  artifactKey: Guid(05a2f9f1b8f93c445ab45dba3b1905f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/wall_half.fbx using Guid(05a2f9f1b8f93c445ab45dba3b1905f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f88c5560f938f351c5ce3e73c10b9e9') in 0.186614 seconds
+  Import took 0.189100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/floor_stepsCornerOuter.fbx
+  artifactKey: Guid(bd68110b9090a094e947521a48642b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/floor_stepsCornerOuter.fbx using Guid(bd68110b9090a094e947521a48642b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03181561b640a0b977c87078344241a6') in 0.166625 seconds
+  Import took 0.171001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/battlement_cornerInner.fbx
+  artifactKey: Guid(12f4e538aa697fd41a8b9413467a90fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/battlement_cornerInner.fbx using Guid(12f4e538aa697fd41a8b9413467a90fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '959c809d91c536e52151c9a5737de602') in 0.192197 seconds
+  Import took 0.194585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/roof.fbx
+  artifactKey: Guid(9ed0f9f3660151241b89dc0e7119d053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/roof.fbx using Guid(9ed0f9f3660151241b89dc0e7119d053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd266e3dc4b0ac141cf6bb8e94803e5') in 0.045890 seconds
+  Import took 0.047966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/tower_edge.fbx
+  artifactKey: Guid(0b90ecff76156d344a3488680436e23b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/tower_edge.fbx using Guid(0b90ecff76156d344a3488680436e23b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd06161744a268953caf08a55f3e05df') in 0.098147 seconds
+  Import took 0.100381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/towerPaint_base.fbx
+  artifactKey: Guid(92997fb80cab2b945b2e154efecddc8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/towerPaint_base.fbx using Guid(92997fb80cab2b945b2e154efecddc8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc05f8792bbe0590f5e96ba4d4d5f3b7') in 0.398265 seconds
+  Import took 0.400379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/wallFortifiedPaint_gate.fbx
+  artifactKey: Guid(099911e26523eea478f92655a30d8e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/wallFortifiedPaint_gate.fbx using Guid(099911e26523eea478f92655a30d8e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1558bf14d65e156ff2b8aea3df4e8b04') in 0.171325 seconds
+  Import took 0.173764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/roof_edge.fbx
+  artifactKey: Guid(dce0ca5746d84b0409f1fb4656e098f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/roof_edge.fbx using Guid(dce0ca5746d84b0409f1fb4656e098f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b99648f19f9c20b0a0ab7b8eeb1efef4') in 0.221534 seconds
+  Import took 0.223673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/floor_stairs.fbx
+  artifactKey: Guid(451b39b954efcf2469c0900aa047a763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/floor_stairs.fbx using Guid(451b39b954efcf2469c0900aa047a763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d92e7cb2ea762f79245885afe45c1e4') in 0.117971 seconds
+  Import took 0.119867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/wall_detail.fbx
+  artifactKey: Guid(363d6352b8565a34790425925c7351bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/wall_detail.fbx using Guid(363d6352b8565a34790425925c7351bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '379ed1c03e4d5cb8fd10ae8c2e1bf9bf') in 0.141915 seconds
+  Import took 0.144084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/structure_poles.fbx
+  artifactKey: Guid(a1114a9986abfaf479fe010020c528d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/structure_poles.fbx using Guid(a1114a9986abfaf479fe010020c528d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a87334499aa66adcabdbae679f1a002f') in 0.165332 seconds
+  Import took 0.167412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/columnPaint.fbx
+  artifactKey: Guid(09111ec786b25f14da19e6ff5c287c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/columnPaint.fbx using Guid(09111ec786b25f14da19e6ff5c287c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc4476efb8b41daa46ad6bb1f6a96526') in 0.127583 seconds
+  Import took 0.129857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/wallFortified_gateHalf.fbx
+  artifactKey: Guid(c6214a78c363fac44ade58621dc53e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/wallFortified_gateHalf.fbx using Guid(c6214a78c363fac44ade58621dc53e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffca9a1942745026310f2781c8225e94') in 0.114017 seconds
+  Import took 0.116148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/overhang_fence.fbx
+  artifactKey: Guid(52caf5d8e29defe42a9a0cfef6fd691b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/overhang_fence.fbx using Guid(52caf5d8e29defe42a9a0cfef6fd691b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b0976b5ad94ce65a53f5fc40d6489eb') in 0.080617 seconds
+  Import took 0.082852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/wallFortifiedPaint.fbx
+  artifactKey: Guid(70271916dee0fc04fbd2632580d49c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/wallFortifiedPaint.fbx using Guid(70271916dee0fc04fbd2632580d49c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f64eb8b756dfd5e8178af22f3d805173') in 0.050988 seconds
+  Import took 0.053070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/wallFortified_half.fbx
+  artifactKey: Guid(61b257a0d7e988b46b138592800cf68b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/wallFortified_half.fbx using Guid(61b257a0d7e988b46b138592800cf68b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ba764f6a12e8079974338ded80b62cf') in 0.180401 seconds
+  Import took 0.182519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/wallPaint_gate.fbx
+  artifactKey: Guid(308df326bdb9a5348bc0b3d5a6e96da2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/wallPaint_gate.fbx using Guid(308df326bdb9a5348bc0b3d5a6e96da2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '187b9f01d72559715b6b74ac13aac542') in 0.066802 seconds
+  Import took 0.068841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/overhang_round.fbx
+  artifactKey: Guid(1d49b76f0e7820b458158d8961548504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/overhang_round.fbx using Guid(1d49b76f0e7820b458158d8961548504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85ba757f0d7847e44221624409605b14') in 0.069880 seconds
+  Import took 0.072096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/wall.fbx
+  artifactKey: Guid(8e579b90ff43adf489c002168577b949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/wall.fbx using Guid(8e579b90ff43adf489c002168577b949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efc4060924d799b95284693ca07d6e37') in 0.079784 seconds
+  Import took 0.082391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/floor_stepsCornerInner.fbx
+  artifactKey: Guid(1f43f700c30b68749993231098cd6cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/floor_stepsCornerInner.fbx using Guid(1f43f700c30b68749993231098cd6cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bef46e51abd6cda10bb043f56cfb4370') in 0.072178 seconds
+  Import took 0.074389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/detail_crateSmall.fbx
+  artifactKey: Guid(f3bc471c4a88ab24e80ad977a504bbf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/detail_crateSmall.fbx using Guid(f3bc471c4a88ab24e80ad977a504bbf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47eebf8ec90a9a20f1cf8a0c8cea444f') in 0.097848 seconds
+  Import took 0.100039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/overhang.fbx
+  artifactKey: Guid(f2ca1c1625452634389e5f507022ecd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/overhang.fbx using Guid(f2ca1c1625452634389e5f507022ecd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f782655c936cabd3d0bb87b67e5595a') in 0.168982 seconds
+  Import took 0.170893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/structure_wall.fbx
+  artifactKey: Guid(6b32432957f404d4e90b7ded4988ca15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/structure_wall.fbx using Guid(6b32432957f404d4e90b7ded4988ca15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc30e46ed43d9e386c21b4910586b808') in 0.112982 seconds
+  Import took 0.114971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/battlement.fbx
+  artifactKey: Guid(27cad91bfbdfc6c4aaad3c7a739abb90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/battlement.fbx using Guid(27cad91bfbdfc6c4aaad3c7a739abb90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07d2be1be17a8089c47f53801479a47a') in 0.156805 seconds
+  Import took 0.158797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/fence.fbx
+  artifactKey: Guid(943806045ea734d4bb2e661f979f2413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/fence.fbx using Guid(943806045ea734d4bb2e661f979f2413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14f4c33de55263ccecdf3e2123185600') in 0.172748 seconds
+  Import took 0.174959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Art/Models/CastleModels/FBX format/wallPaint_flat.fbx
+  artifactKey: Guid(c1826758b0c5d2e4d8fb141c8fe02e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Models/CastleModels/FBX format/wallPaint_flat.fbx using Guid(c1826758b0c5d2e4d8fb141c8fe02e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8f7405be822fe466f0909eb92a4e447') in 0.158658 seconds
+  Import took 0.160744 seconds .
+
